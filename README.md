@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [under construction...]👷
 
-- 📚 Currently learning **NBU - Informatics, SoftUni, MSSQL, Enitity Framework, .NET**
+- 📚 Currently studying at **NBU - Informatics also learning at SoftUni - C#, MSSQL, Enitity Framework, .NET**
 
 - 📫 How to reach me? **smvh@abv.bg**
 
