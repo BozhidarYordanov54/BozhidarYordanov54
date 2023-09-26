@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bozhidar Yordanov</h1>
-<h3 align="center">A backend developer from Sofia, Bulgaria</h3>
-<img align="right" alt="hardcore" width="400" src="https://media.tenor.com/kq7GyBPPIj0AAAAd/sweaty-speedrunner.gif">
+<h3 align="center">A backend developer from Veliko Tarnovo, Bulgaria</h3>
 
-- 💻 I’m currently working on [SMB_Website](https://smb-vt.com)
+- 💻 I’m currently working on [СМБ-Велико Търново](https://smb-vt.com)
 
-- 👨‍💻 All of my projects are available at [under construction...👷](under construction...👷)
+- 👨‍💻 All of my projects are available at [under construction...]👷
 
 - 📚 Currently learning **NBU - Informatics, SoftUni, MSSQL, Enitity Framework, .NET**
 
-- 📫 How to reach me **smvh@abv.bg**
+- 📫 How to reach me? **smvh@abv.bg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
