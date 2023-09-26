@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bozhidaryordanov54&show_icons=true&locale=en&layout=compact" alt="bozhidaryordanov54" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bozhidaryordanov54&show_icons=true&locale=en" alt="bozhidaryordanov54" /></p>
+
 
