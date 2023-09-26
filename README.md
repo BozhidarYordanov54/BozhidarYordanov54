@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bozhidar Yordanov</h1>
 <h3 align="center">A backend developer from Sofia, Bulgaria</h3>
 
+<img align="right" src="https://media.tenor.com/kq7GyBPPIj0AAAAd/sweaty-speedrunner.gif">
+
 - 💻 I’m currently working on [SMB_Website](https://smb-vt.com)
 
 - 👨‍💻 All of my projects are available at [under construction...👷](under construction...👷)
