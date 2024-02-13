@@ -7,7 +7,7 @@
 
 - 📚 Currently studying at **NBU - Informatics also learning at SoftUni - C#, MSSQL, Enitity Framework, .NET**
 
-- 📫 How to reach me? **smvh@abv.bg**
+- 📫 How to reach me? **bozhidar.yordanov02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
