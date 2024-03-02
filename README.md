@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bozhidar Yordanov</h1>
 <h3 align="center">A backend developer from Veliko Tarnovo, Bulgaria</h3>
 
-- 💻 I’m currently working on [СМБ-Велико Търново](https://smb-vt.com](https://github.com/BozhidarYordanov54/SMB_Veliko-Tarnovo))
+- 💻 I’m currently working on a secret project! :)
 
 - 👨‍💻 All of my projects are available at [under construction...]👷
 
-- 📚 Currently studying at **NBU - Informatics also learning at SoftUni - C#, MSSQL, Enitity Framework, .NET**
+- 📚 Currently studying at **NBU - Informatics also learning at SoftUni - C#, MSSQL, Enitity Framework, ASP.NET Core**
 
 - 📫 How to reach me? **bozhidar.yordanov02@gmail.com**
 
